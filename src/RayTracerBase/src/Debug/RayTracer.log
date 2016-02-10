@@ -1,0 +1,40 @@
+﻿Построение начато 12.12.2015 21:24:15.
+     1>Проект "F:\RayTracerWinWin (копия) - копия\src\RayTracer.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\RayTracer.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\glm /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Tracer.cpp
+         Tracer.cpp
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(8): warning C4305: инициализация: усечение из "double" к "float"
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(10): warning C4305: инициализация: усечение из "double" к "float"
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(15): warning C4305: инициализация: усечение из "double" к "float"
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(23): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(24): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(24): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(79): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(79): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(88): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(185): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(186): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+     1>f:\raytracerwinwin (копия) - копия\src\tracer.cpp(187): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\RayTracerWinWin (копия) - копия\src\..\bin\RayTracer.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RayTracer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\RayTracerWinWin (копия) - копия\bin\RayTracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\RayTracerWinWin (копия) - копия\src\..\bin\RayTracer.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\Scene.obj
+         Debug\Tracer.obj
+     1>Main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         RayTracer.vcxproj -> F:\RayTracerWinWin (копия) - копия\src\..\bin\RayTracer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\RayTracerWinWin (копия) - копия\src\..\bin\RayTracer.exe;#1" /manifest Debug\RayTracer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\RayTracer.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\RayTracer.lastbuildstate".
+     1>Построение проекта "F:\RayTracerWinWin (копия) - копия\src\RayTracer.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:46.23

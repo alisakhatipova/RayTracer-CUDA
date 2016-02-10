@@ -1,0 +1,23 @@
+﻿Построение начато 12.12.2015 21:23:35.
+     1>Проект "C:\Users\Денис\Documents\RayTracerWinWin\src\RayTracer.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\RayTracer.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       AddCudaCompileDeps:
+       Целевой объект "AddCudaCompileDeps" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       AddCudaCompilePropsDeps:
+       Целевой объект "AddCudaCompilePropsDeps" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       CudaBuild:
+       Целевой объект "CudaBuild" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         RayTracer.vcxproj -> C:\Users\Денис\Documents\RayTracerWinWin\src\..\bin\RayTracer.exe
+       FinalizeBuildStatus:
+         Файл "Debug\RayTracer.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\RayTracer.lastbuildstate".
+     1>Построение проекта "C:\Users\Денис\Documents\RayTracerWinWin\src\RayTracer.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.10
